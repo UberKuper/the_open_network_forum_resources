@@ -125,9 +125,10 @@
 | RU Chat           | -              | 14     | -                                      | -                    |
 
 ### Contribution Guidelines
-- [ ] 'Project Name' in *Title Case*, followed by [ ].
-- Accepted Links: *Telegram*, *Github*, *Twitter*. Website URL each separated by ' | '.
-- Ensure the project is suggested within the correct category. No more than 2 allowed.
+- 'Project Name' in *Title Case*, followed by [ ].
+- Each table sector separated by ' | '.
+- Accepted Links: *Telegram* only
+- Ensure the project is suggested within the correct category.
 - Entries should be arranged in alphabetical order, sorted by Project Name.
 
 - Individuals are welcome to contribute to this repository by submitting pull requests in the appropriate format.
